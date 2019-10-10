@@ -18,8 +18,7 @@ Syntax highlighted code block
 - Bulleted
 - List
 
-[universal Link](https://yonddy.github.io/universal_link_QA.html)
-[Deep Link](https://yonddy.github.io/wanted_link.html)
+
 
 1. Numbered
 2. List
@@ -28,6 +27,9 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
+
+[universal Link](https://yonddy.github.io/universal_link_QA.html)
+[Deep Link](https://yonddy.github.io/wanted_link.html)
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
