@@ -8,7 +8,7 @@ DeepLink QA List
 
 [universal Link TW](https://yonddy.github.io/universal_link_TW.html)
 
-[universal Link SG,HK](https://yonddy.github.io/universal_link_SG/HK.html)
+[universal Link SG,HK](https://yonddy.github.io/universal_link_HK/SG.html)
 
 [Deep Link](https://yonddy.github.io/wanted_link.html)
 
