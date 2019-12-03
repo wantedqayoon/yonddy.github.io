@@ -12,3 +12,5 @@ DeepLink QA List
 
 [Deep Link](https://yonddy.github.io/wanted_link.html)
 
+[Mobile Web](https://yonddy.github.io/global.html)
+
